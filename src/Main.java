@@ -4,6 +4,7 @@ public static void main(String[]args){
     System.out.println("Hello World ");
     System.out.println("2+2="+(2+2));
     System.out.println("СТРОКА 1\n\tСтрока 2\n\t Строка3\n\t ");
+    System.out.println("кОНЕЦ");
 }
 }
 
